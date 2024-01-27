@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My stats🏆
+
+<img alt="Oleh's GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=transparent"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Profile Views Counter👀
+
 [![OlehVelmyk profile views](https://u8views.com/api/v1/github/profiles/8557869/views/day-week-month-total-count.svg)](https://u8views.com/github/OlehVelmyk)
