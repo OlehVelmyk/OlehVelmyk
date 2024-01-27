@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <img alt="Oleh's GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=transparent"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk)](https://github.com/anuraghazra/github-readme-stats)
 
 
