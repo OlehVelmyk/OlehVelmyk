@@ -24,7 +24,7 @@
 </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
 </a> <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
-</a> <a href="https://www.jetbrains.com/ru-ru/teamcity/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TeamCity_Icon.svg" alt="teamcity" width="40" height="40"/> </a> </p>
+</a> <a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TeamCity_Icon.svg" alt="teamcity" width="40" height="40"/> </a> </p>
 -->
 
 <!--Here are some ideas to get you started:
