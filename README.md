@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋-->
 
 <h1 align="center">Hi there 👋, I'm Oleh</h1>
-<h3 align="center">General QA engineer, QA Team Lead</h3>
+<h3 align="center">QA Engineer </h3>
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
