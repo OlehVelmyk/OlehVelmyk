@@ -41,10 +41,14 @@
 - ⚡ Fun fact: ...
 -->
 ### My stats🏆
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk)](https://github.com/OlehVelmyk/github-readme-stats)
+-->
+
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=radical" width="500" height="230">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk&layout=compact" width="443" height="230">
 
 ### Profile Views Counter👀
 
