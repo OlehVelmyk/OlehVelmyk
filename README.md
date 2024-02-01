@@ -32,7 +32,7 @@
 </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="docker" width="40" height="40"/> 
 </a> <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="docker" width="40" height="40"/>
 </a> <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="docker" width="40" height="40"/>
-</a> <a href="https://www.bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="docker" width="80" height="40"/>
+</a> <a href="https://www.bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="docker" width="60" height="40"/>
 </a> <a href="https://www.virtualbox.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="docker" width="40" height="40"/></a></p>
 
 
