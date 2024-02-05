@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋-->
 
-<h1 align="center">Hi there 👋, I'm Oleh 🙂</h1>
-<h3 align="center">QA Engineer 👨‍💻</h3>
+<h1 align="center">Hi there👋, I'm Oleh🙂</h1>
+<h3 align="center">QA Engineer👨‍💻</h3>
 
 <!-- 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
