@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋-->
 
-<h1 align="center">Hi there 👋, I'm Oleh </h1>
+<h1 align="center">Hi there 👋, I'm Oleh 🙂</h1>
 <h3 align="center">QA Engineer 👨‍💻</h3>
 
-<!--
+<!-- 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
