@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋-->
 
 <h1 align="center">Hi there 👋, I'm Oleh🙂</h1>
-<h3 align="center">QA Engineer👨‍💻</h3>
+<h3 align="center">QA Engineer 👨‍💻</h3>
 
 <!-- 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -16,7 +16,7 @@
 </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 -->
 
-### Languages and Tools💪
+### Languages and Tools 💪
 <p align="left"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="docker" width="40" height="40"/>
@@ -47,7 +47,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My stats🏆
+### My stats 🏆
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=radical)
 
@@ -59,7 +59,7 @@
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk&layout=compact" width="335" height="190">
 
 
-### Profile Views Counter👀
+### Profile Views Counter 👀
 
 [![OlehVelmyk profile views](https://u8views.com/api/v1/github/profiles/8557869/views/day-week-month-total-count.svg)](https://u8views.com/github/OlehVelmyk)
 
