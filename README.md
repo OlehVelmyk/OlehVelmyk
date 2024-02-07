@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋-->
 
-<h1 align="center">Hi there 👋, I'm Oleh🙂</h1>
+<h1 align="center">Hi there 👋, I'm Oleh 🙂</h1>
 <h3 align="center">QA Engineer 👨‍💻</h3>
 
 <!-- 
