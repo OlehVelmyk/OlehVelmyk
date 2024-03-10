@@ -54,9 +54,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk)](https://github.com/OlehVelmyk/github-readme-stats)
 -->
 
-<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=radical" width="410" height="180">
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=radical" width="410" height="175">
 
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk&layout=compact" width="415" height="180"> <br></br>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk&layout=compact" width="415" height="175"> <br></br>
 
 ### Profile Views Counter 👀
 
