@@ -56,7 +56,7 @@
 
 <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OlehVelmyk&show_icons=true&theme=radical" width="430" height="190">
 
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk&layout=compact" width="430" height="180"> <br></br>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehVelmyk&layout=compact" width="420" height="180"> <br></br>
 
 ### Profile Views Counter 👀
 
